@@ -1,0 +1,21 @@
+Twitter Stalker is a very simple Android application developed as apart of a Mobile Smackdown conference presentation that intended to show the difference between developing mobile applications for Android, iOS (iPhone) and Windows Phone 7. This presentation has been given at both CodeMash and StirTrek. Each platform representative is given 15 minutes to develop the application.
+
+REQUIREMENTS
+
+•	Display a list of twitter names the user has added
+•	The user must be able to add or remove twitter names to the list
+•	The list must be persisted between uses
+•	When the user selects a user from the list, the app will navigate to their twitter web page.
+•	No error checking for duplicate or valid names is necessary
+
+RULES
+
+•	Each presenter has 15 minutes to build the solution for their platform
+
+
+To try Twitter Stalker
+
+1. Clone the Mobile Smackdown Android project.
+2. Import the TwitterStalker into Eclipse that had the Android Development Tools (ADT) plugin installed and configured.
+3. Clean project.
+4. Run as Android Application.
