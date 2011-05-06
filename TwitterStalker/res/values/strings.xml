@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FollowingActivity!</string>
+    <string name="app_name">Twitter Stalker</string>
+    <string-array name="twitter_handles">
+        <item>javajudd</item>
+        <item>fanzoo</item>
+        <item>justinmunger</item>
+    </string-array>
+        <string name="Add">add</string>
+        <string name="add">Add</string>
+</resources>
